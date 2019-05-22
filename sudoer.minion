@@ -1,0 +1,2 @@
+Defaults:minion !requiretty, !lecture
+minion ALL=(ALL) NOPASSWD:ALL

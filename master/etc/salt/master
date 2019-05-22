@@ -1,0 +1,6 @@
+root_dir: /home/master
+
+file_roots:
+   base:
+      - /home/master/srv/salt
+      - /home/master/srv/static

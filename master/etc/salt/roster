@@ -1,0 +1,5 @@
+dummy:
+   host: localhost
+   user: minion
+   sudo: True
+   thin_dir: /home/minion/salt-deploy
